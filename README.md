@@ -4,7 +4,7 @@ got bored and decided to do this.
 actual exploit is [here](https://github.com/exploitmafia/trustedmode-bypass), this is just an injector that makes timing super easy.
 
 ## how to use
-be logged into steam, have csgo closed with the loader exe and bypass dll in the same folder.
+be logged into steam, have csgo closed with the loader exe and bypass dll in the same folder. (you need to build both projects, x86 release or debug)
 
 as this is now public, i can't for the detection status of this. this may get patched, or the inject could get detected. you may want to use [this](https://github.com/zyhp/vac3_inhibitor) or [this](https://github.com/danielkrupinski/VAC-Bypass-Loader), if you're using it on an important account.
 
